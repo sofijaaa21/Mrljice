@@ -1,4 +1,3 @@
-fork
-knife
-plate
-spoon
+rainbow
+sheen
+truecolor
