@@ -2,15 +2,6 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="YOLOv8_TfLite.app.androidTest">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
-      <SelectionState runConfigName="YOLOv8_TfLite.app.unitTest">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
-      <SelectionState runConfigName="YOLOv8_TfLite.app.main">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
       <SelectionState runConfigName="YOLOv8_TfLite.app">
         <option name="selectionMode" value="DROPDOWN" />
         <DropdownSelection timestamp="2025-02-12T17:20:59.473952600Z">
